@@ -11,19 +11,13 @@ There are several methods that can be used to capture 3D space, including the fo
 
 2. [[Laser scanning]]: This is a method of capturing 3D data using lasers. A laser scanner emits a laser beam and measures the time it takes for the beam to bounce back to the scanner. This allows the scanner to create a detailed 3D map of the environment.
 
-  
 
 3. Structured light scanning: This is a method of capturing 3D data using a pattern of light. The pattern is projected onto the object or scene, and a camera is used to capture images of the distorted pattern. Specialized software is then used to process the images and create a 3D model.
 
-  
-
 4. Depth sensors: Depth sensors are specialized sensors that can be used to capture 3D data. They work by emitting a signal and measuring the time it takes for the signal to bounce back. This allows the sensor to create a detailed 3D map of the environment.
-
-  
 
 5. Time-of-flight cameras: These are cameras that use the time it takes for a light pulse to travel to an object and back to calculate the distance to the object. This allows the camera to create a 3D map of the environment.
 
-  
 
 6. Stereoscopic cameras: These are pairs of cameras that are mounted side by side and capture images from slightly different angles. The images are then combined to create a 3D image.
 
