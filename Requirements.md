@@ -9,7 +9,7 @@ There are several methods that can be used to capture 3D space, including the fo
 
 1. [[Photogrammetry]]
 
-2. [[Laser scanning]]: This is a method of capturing 3D data using lasers. A laser scanner emits a laser beam and measures the time it takes for the beam to bounce back to the scanner. This allows the scanner to create a detailed 3D map of the environment.
+2. [[Laser scanning]]
 
 
 3. Structured light scanning: This is a method of capturing 3D data using a pattern of light. The pattern is projected onto the object or scene, and a camera is used to capture images of the distorted pattern. Specialized software is then used to process the images and create a 3D model.
