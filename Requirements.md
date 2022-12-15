@@ -25,8 +25,6 @@ There are several methods that can be used to capture 3D space, including the fo
 
 7. Motion capture: This is a method of capturing the movement of objects or people in 3D. It typically involves attaching markers to the objects or people and using sensors or cameras to track the markers in 3D space.
 
-  
-  
 
 - 3D scanning
 
@@ -150,4 +148,4 @@ blender plugin
 
 - laser cut
 
--
+![[CM3 makerspace.png]]
