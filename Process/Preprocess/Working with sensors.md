@@ -10,7 +10,7 @@
 
 - Extract sensor data from various sources
 
-```
+```plain
 https://api.creativemakers.xyz/sensor-data.php?mac=<MAC-ADDR>
 ```
 

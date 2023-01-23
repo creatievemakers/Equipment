@@ -1,7 +1,8 @@
 Flow: capture (3D scan) -> process (Houdini) -> VR (unity) [passive interaction]                  
 
                                              -> VR (gravity sketch) [active creation/interactive]  -> Output (3D Model)
-
+                                             
+![[Pasted image 20230110130056.png]]
 
 ## Capture (physical to digital)
 
@@ -104,7 +105,6 @@ Everything that needs to be done before we can start the creative processing. Th
 
 - Unreal
 
-  
 
 ### Processing in VR / VR-aided processing
 
