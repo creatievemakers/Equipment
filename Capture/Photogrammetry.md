@@ -6,7 +6,7 @@ This is a method of creating 3D models by analyzing multiple photographs of an o
 - Smartphone
 - Omni-dir camera
 	- Insta 360° (Pro 2)
-- [[Ipad]]
+- [[IPad]]
 	- ToF + IMU -> 3D model
 - [[ZED camera]]
 	- ZED X Stereo

@@ -1,0 +1,1 @@
+The CM3Lab provides both data and power through the Ubiquiti UniFi USW-PRO-48-POE.

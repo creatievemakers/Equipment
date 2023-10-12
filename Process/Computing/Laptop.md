@@ -1,0 +1,1 @@
+MSI Stealth 17 Studio A13VH-039BE 17.3" gaming laptop
